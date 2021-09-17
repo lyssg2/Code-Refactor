@@ -1,4 +1,4 @@
-# hw_week1
+# Code-Refractor
 
 The motivation of this project was to refract a website for a marketing agency that has a codebase that follows accessibility standards
 so that their website was optimized for search engines.
