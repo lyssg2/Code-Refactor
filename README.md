@@ -1,4 +1,4 @@
-# Code-Refractor
+# Code-Refactor
 
 The motivation of this project was to refract a website for a marketing agency that has a codebase in which to follow accessibility standards
 so that their website is optimized for search engines.
