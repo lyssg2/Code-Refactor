@@ -1,6 +1,6 @@
 # Code-Refactor
 
-The motivation of this project was to refract a website for a marketing agency that has a codebase in which to follow accessibility standards
+The motivation of this project was to refact a website for a marketing agency that has a codebase in which to follow accessibility standards
 so that their website is optimized for search engines.
 
 Upon doing so, I rewrote the documents to include semantic HTML, reorganized attributes and elements to make it more user-friendly, and 
